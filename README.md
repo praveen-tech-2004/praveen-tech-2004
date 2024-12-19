@@ -8,8 +8,9 @@ I’m Praveen Kumar Gorrepati, currently pursuing a B.Tech in Computer Science w
 
 🚀 About Me
 Skills: Python, JavaScript, Java, React.js, MySQL, MongoDB
-Interests: Web development, Data Science, AI & ML, Continuous Learning
-Experience: Web Developer Intern at Sithafal Technologies, where I improved website functionality and user experience.
+Interests: Web development, Data Science, AI & ML, Continuous Learning.
+
+Experience: Web Developer Intern at Sithafal Technologies, Backend developer at Elifinty Technologies.
 
  🔧 Technologies & Tools
 Languages: Python, JavaScript, Java, C
